@@ -1,3 +1,3 @@
 <?php
 
-define("BASE_URL", "https://afis.ikarin.site/");
+define("BASE_URL", "https://triprastiopabw.tif18e.com/");
